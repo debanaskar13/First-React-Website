@@ -1,0 +1,39 @@
+.tags-container{
+    display: inline-block;
+}
+.card-image{
+    width: 100px;
+}
+#sortBy{
+    display: inline-block;
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
+.filter-heading{
+    color: black;
+}
+.filter-heading:hover{
+    text-decoration: none;
+    border : none;
+    color: black;
+}
+
+.active-class{
+    color: blue;
+    border-bottom: 3px solid blue;
+    cursor: context-menu;
+    font-weight: 770;
+}
+
+.active-class:hover{
+    text-decoration: none;
+}
+
+.card{
+    width: 7.5rem;
+}
+
+.card-text{
+    font-size: 0.8rem;
+}
