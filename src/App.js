@@ -8,7 +8,7 @@ import Product from './product';
 class App extends Component {
     state = {
         Redmi8: { name: 'Redmi 8', src: 'https://cdn.vox-cdn.com/thumbor/E8c5U6A_RrsyiwRANmcCLNE2dzc=/0x0:2040x1360/1400x933/filters:focal(860x560:1186x886):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/55855309/akrales_190913_3628_0277.19.jpg', price: 9999 },
-        Redmi9A: { name: 'Redmi 9 A', src: '', price:}
+        Redmi9A: { name: 'Redmi 9 A', src: '', price: 10999 }
     };
 
     render() {
